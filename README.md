@@ -242,3 +242,6 @@ This repository serves as the official landing page for TunesGo. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of TunesGo today!**
+
+---
+**Last updated:** 2026-09-08 18:15:43 UTC
